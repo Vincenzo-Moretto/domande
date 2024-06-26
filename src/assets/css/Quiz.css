@@ -1,0 +1,7 @@
+.giusto {
+  color: green;
+  font-weight: bolder;
+}
+.giusto:hover {
+  cursor: pointer;
+}
